@@ -15,7 +15,6 @@ public class DbHandler {
         return instance;
     }
     
-    
     private Connection connection;
     
     private DbHandler() throws SQLException {

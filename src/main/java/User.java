@@ -7,7 +7,6 @@ public class User {
     public double password;
     
     
-   
     public User(int id, String user, double pass) {
         this.id = id;
         this.user = user;
